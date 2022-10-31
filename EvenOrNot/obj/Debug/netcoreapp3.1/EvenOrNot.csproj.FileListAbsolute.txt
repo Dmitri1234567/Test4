@@ -1,0 +1,13 @@
+E:\проект на c#\EvenOrNot\EvenOrNot\bin\Debug\netcoreapp3.1\EvenOrNot.exe
+E:\проект на c#\EvenOrNot\EvenOrNot\bin\Debug\netcoreapp3.1\EvenOrNot.deps.json
+E:\проект на c#\EvenOrNot\EvenOrNot\bin\Debug\netcoreapp3.1\EvenOrNot.runtimeconfig.json
+E:\проект на c#\EvenOrNot\EvenOrNot\bin\Debug\netcoreapp3.1\EvenOrNot.runtimeconfig.dev.json
+E:\проект на c#\EvenOrNot\EvenOrNot\bin\Debug\netcoreapp3.1\EvenOrNot.dll
+E:\проект на c#\EvenOrNot\EvenOrNot\bin\Debug\netcoreapp3.1\EvenOrNot.pdb
+E:\проект на c#\EvenOrNot\EvenOrNot\obj\Debug\netcoreapp3.1\EvenOrNot.GeneratedMSBuildEditorConfig.editorconfig
+E:\проект на c#\EvenOrNot\EvenOrNot\obj\Debug\netcoreapp3.1\EvenOrNot.AssemblyInfoInputs.cache
+E:\проект на c#\EvenOrNot\EvenOrNot\obj\Debug\netcoreapp3.1\EvenOrNot.AssemblyInfo.cs
+E:\проект на c#\EvenOrNot\EvenOrNot\obj\Debug\netcoreapp3.1\EvenOrNot.csproj.CoreCompileInputs.cache
+E:\проект на c#\EvenOrNot\EvenOrNot\obj\Debug\netcoreapp3.1\EvenOrNot.dll
+E:\проект на c#\EvenOrNot\EvenOrNot\obj\Debug\netcoreapp3.1\EvenOrNot.pdb
+E:\проект на c#\EvenOrNot\EvenOrNot\obj\Debug\netcoreapp3.1\EvenOrNot.genruntimeconfig.cache
